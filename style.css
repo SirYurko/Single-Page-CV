@@ -1,0 +1,30 @@
+.custom-line {
+    border: none;
+    height: 2px;
+    background-color: rgba(0, 0, 0, 0.814);
+    margin: 20px 0;
+}
+
+body{
+    font-family: Nunito;
+    margin: 100px
+}
+
+h3 {
+    color: rgb(13, 152, 13)
+}
+
+.places {
+  color: blue;
+}
+
+a {
+   color: rgb(162, 0, 151);
+   text-decoration: none;
+   transition: color 0.3 ease;
+}
+
+a:hover {
+    color: red;
+    
+}
